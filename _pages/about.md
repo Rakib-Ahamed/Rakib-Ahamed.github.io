@@ -33,7 +33,6 @@ I am Rakib Ahamed. I graduated with a B.Sc. degree in Computer Science and Engin
 * <span style="color:Blue"> [May 05, 2019] </span> - Attended [ICASERT 2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/), in Dhaka, Bangladesh, and presented a [paper](https://ieeexplore.ieee.org/document/8934561).  
 * <span style="color:Blue"> [April 10, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/8934561) got accepted to [ICASERT 2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/)
 * <span style="color:Blue"> [March 23, 2019] </span> - Ranked 7th position at [Inter University Math Olympiad](http://tonmoy-hossain.github.io/files/Math_Olympiad.pdf)
-* <span style="color:Blue"> [March 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
 * <span style="color:Blue"> [March 1, 2019] </span> - One [journal paper](https://www.ijser.org/researchpaper/Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf) got accepted.
 
 -----------
