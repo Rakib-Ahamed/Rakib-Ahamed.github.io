@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rakib-Ahamed"
 title_separator          : "-"
-name                     : &name "Tonmoy Hossain"
+name                     : &name "Md. Rakib Ahamed"
 description              : &description "personal description"
 url                      : https://tonmoy-hossain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
