@@ -13,7 +13,7 @@ name                     : &name "Md. Rakib Ahamed"
 description              : &description "personal description"
 url                      : https://rakib-ahamed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Rakib-ahamed/Rakib-Ahamed.github.io"
+repository               : "Rakib-Ahamed/Rakib-Ahamed.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,10 +86,10 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ"
+  googlescholar    : 
   DBLP             : 
-  email            :  tonmoyhossain.cse@ieee.org
-  researchgate     :  "https://www.researchgate.net/profile/Tonmoy_Hossain2"
+  email            :  rakibahamed405@gmail.com
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tonmoy-hossain"
+  github           : "Rakib-Ahamed"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5808-6391"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
