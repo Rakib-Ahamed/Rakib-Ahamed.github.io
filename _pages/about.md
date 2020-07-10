@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings!
+Hello!
 
-My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/) , Dhaka, Bangladesh. Just after complete my graduation, I get the opportunity to serve my alma mater and presently I am working as a Lecturer in the [Department of CSE](http://aust.edu/cse/index.htm) at my place of graduation.  My primary research interest lies at Deep Learning, Computer Vision, Data Mining and Medical Image Processing.
+I am Rakib Ahamed. I graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/) , Dhaka, Bangladesh. Just after complete my graduation, I am working as a Software Engineer. I seek opportunities where I can fully use my skills for the success of the organization and experiencing new things and techniques in Computer Science field throughout my life which may lead to my goal.
 
 
-**For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
+**For additional information, please see the [CV](https://rakib-ahamed.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
 
 -----------
 
