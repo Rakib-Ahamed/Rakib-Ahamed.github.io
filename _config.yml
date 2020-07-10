@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rakib-Ahamed"
+title                    : "Md. Rakib Ahamed"
 title_separator          : "-"
 name                     : &name "Md. Rakib Ahamed"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Md. Rakib Ahamed"
-  avatar           : "final_picture.jpg"
-  bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition."
+  avatar           : "Main Profile.jpg"
+  bio              : "Seeking opportunities to increase my knowledge acquired in learning and experiencing new things and techniques in Computer Science field"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/md-rakib-ahamed-35a4aa141/"
   orcid            : 
   pinterest        :
   soundcloud       :
