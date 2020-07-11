@@ -21,10 +21,6 @@ Software Development Department <br/>
 Data Edge Limited (Dhaka, Bangladesh) <br/>
 <i style='color:#000099;'>**February 02, 2020 - present**</i><br/>
 
-<b>Intern – Software Quality Assurance Engineer </b><br />
-Software QA Department <br/>
-Codemen Solutions Inc. <br />
-<i style='color:#000099;'>**August 05, 2019 - December 09, 2019**</i>
 
 [Download Full CV](https://rakib-ahamed.github.io/files/CV_March1.pdf) [<ins>*Last Updated on March 01, 2020*</ins>]
 
