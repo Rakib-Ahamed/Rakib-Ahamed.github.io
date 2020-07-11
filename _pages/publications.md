@@ -4,8 +4,9 @@ title: "Employement"
 permalink: /publications/
 author_profile: true
 ---
+
 # Employment 
--------------
+
 <b>Software Engineer Trainee </b><br/>
 Software Development Department <br/>
 Data Edge Limited (Dhaka, Bangladesh) <br/>
@@ -13,7 +14,7 @@ Data Edge Limited (Dhaka, Bangladesh) <br/>
 
 
 # Intern
--------------
+
 <b>Software Quality Assurance Engineer </b><br />
 Software QA Department <br/>
 Codemen Solutions Inc. <br />
@@ -21,7 +22,7 @@ Codemen Solutions Inc. <br />
 
 
 # Training
--------------
+
 <b>Training for Mobile Application Developer (iOS) </b><br />
 Skill Development for Mobile Game & Application Project <br/> 
 Digicon Technologies Limited <br/> 
