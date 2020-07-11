@@ -8,7 +8,7 @@ author_profile: true
 ## Ongoing Projects
 ----------------
 
-### [2019 - *Current*]
+### [2020 - *Current*]
 -----------
 * Bank Reconciliation (*ASP.Net Entity Framework, MsSQL Server*)
 * Real Time Gross Settlement (*ADO.Net Framework, MsSQL Server*
