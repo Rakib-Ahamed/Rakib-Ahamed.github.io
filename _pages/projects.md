@@ -10,31 +10,27 @@ author_profile: true
 
 ### [2019 - *Current*]
 -----------
-* Early Parkinson's Disease Prediction.
-* Automatic Video Captioning System.
-* Cardless transaction system.
+* Bank Reconciliation (*ASP.Net Entity Framework, MsSQL Server*)
+* Real Time Gross Settlement (*ADO.Net Framework, MsSQL Server*
+* Foreign Exchange Reporting System (*ASP.Net Framework, MsSQL Server*)
 
 
-### [2019 - 2020]
+## Trainning Project [2018]
 -----------
-* Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling.
-* Bangla Sign Digit Classification.
-* Alzheimer's Disease Detection applying Neural Network.
+* iOS Pet listview Mobile Application (*Language: Swift in Xcode IDE*)
 
 ## Undergraduate Course Projects [2015-2019]
 ----------------
-* Optimal Location Recommendation for a Food Restaurant using Hybridized K-Means Clustering algorithm.
-* Extraction of text from Images using Optical Character Recognition algorithm.
-* Segmentation of Brain Tumor using Image Processing Techniques.
-* A website to draw 2D and 3D object and implementation of transformation algorithm to visualize data. (*WebGL, C++*)
-* Melitus Detector: A dynamic website to detect Diabetes and Medication System.
-* Diabetes Prediction using Data Mining Algorithm (*Jupyter Notebook with excellent GUI*).
-* Implementation of query processing and optimization algorithms in a management software.
-* Line Follower and blockage prevention Robot (*Arduino*).
-* A dynamic website using MVC to manage product and stock repository (*MVC Framework, MySQL, Visual Basic*).
-* Case Study: Implementing shortest path and route based protocol on Bus Management System  
-* Super Shop Management System (*PHP, MySQL, Visual Basic*).
-* A Scientific Mathematical Calculator(*Android Studio*).
+* Finding Food habit tendency based on different features using K-Means Clustering algorithm (*Jupyter Notebook*).
+* Fake Currency Detection using MATLAB.
+* Canteen Management System using Java (*Language: Java in NeatBeans IDE*).
+* A website to transformation of 3D Space Rocket (*WebGL, Blender, C++*)
+* Bank Management System with multiple branch access using PL/SQL.
+* Sales & Rental Management System using (*Language: C# - Windows Form).
+* Arduino Bluetooth RC Car (*Arduino*).
+* Online Shopping Cart Website (*Language: C# in ASP.Net Framework*). 
+* Tech-Arena Online Gadget Store Website (*PHP, HTML, CSS*).
+* Advanced Scientific Calculator (*Android Studio*).
 * Student Management System (*Language: Java in NeatBeans IDE*).
 * UFO Destruction: Save the City (*Language: C and iGraphics.h*).
 
