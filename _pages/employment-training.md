@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Work Experience"
-permalink: /publications/
+permalink: /employment-training/
 author_profile: true
 ---
 
