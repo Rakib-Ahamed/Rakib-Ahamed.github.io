@@ -12,13 +12,27 @@ redirect_from:
 
 
 
-### B.Sc. in Computer Science and Engineering (Session: 2015-2019)
+### B.Sc. in Computer Science and Engineering (2015-2019)
 
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 * **Thesis title:** ["Automatic License Plate Recognition of Bangladeshi
 Vehicles using Template Matching Technique"](https://rakib-ahamed.github.io/files/ANPR_Report_Milestone.pdf) 
 * **Thesis Presentation:** [[Presentation]](https://rakib-ahamed.github.io/files/ANPR_Presentation_Milestone.pptx) 
 * **Supervisor:** Mr. Emam Hossain, Assistant Professor, Department of CSE, AUST
+
+<br /> 
+
+### Higher Secondary Certificate (2013-2014)
+
+* Dhaka College (Dhaka, Bangladesh) 
+* Obtained the Higher Secondary Certificate (HSC) with GPA 5.00 out of 5.00
+
+<br /> 
+
+### Secondary School Certificate (2011-2012)
+
+* Motijheel Model High School and College (Dhaka, Bangladesh) 
+* Obtained the Secondary School Certificate (SSC) with GPA 5.00 out of 5.00
 
 <br /> 
 
