@@ -16,16 +16,14 @@ redirect_from:
 
 
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
-* **CGPA:  3.842** [*out of 4.00*]
-* **3rd** out of 152 students
-* **Thesis title:** ["Brain Tumor Detection using Convolutional Neural Network"](https://tonmoy-hossain.github.io/files/Hossain_Tonmoy_B.Sc._Thesis.pdf) 
-* **Thesis Presentation:** [[Presentation]](https://tonmoy-hossain.github.io/files/DefenseFinalPresentation.pdf) 
-* **Supervisor:** [Faisal Muhammad Shah](https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en), Associate Professor, Department of CSE, AUST
+* **Thesis title:** ["Automatic License Plate Recognition of Bangladeshi
+Vehicles using Template Matching Technique"](https://rakib-ahamed.github.io/files/ANPR_Report_Milestone.pdf) 
+* **Thesis Presentation:** [[Presentation]](https://rakib-ahamed.github.io/files/ANPR_Presentation_Milestone.pptx) 
+* **Supervisor:** Mr. Emam Hossain, Assistant Professor, Department of CSE, AUST
 
 <br /> 
 # Participation and Awards
 
-* **Dean's List of Honors** (Bachelor of Science)
 * **7th Place** out of 200 participants from 25 Universities in the EWU Inter University Math Olympiad 2019
 * Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
 * Participated in 4th International Conference on Electrical Information and Communication Technology (EICT - 2019), Khulna, Bangladesh
