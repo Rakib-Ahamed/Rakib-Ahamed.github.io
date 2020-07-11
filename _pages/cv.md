@@ -16,36 +16,34 @@ Dhaka, Bangladesh<br />
 
 ## Employment 
 -------------
-<b>Lecturer</b><br />
-Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**January 2020 - present**</i><br/>
+<b>Software Engineer Trainee </b><br/>
+Software Development Department <br/>
+Data Edge Limited (Dhaka, Bangladesh) <br/>
+<i style='color:#000099;'>**February 02, 2020 - present**</i><br/>
 
-<b>Adjunct Lecturer</b><br />
-Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**August 2019 - January 2020**</i>
+<b>Intern – Software Quality Assurance Engineer </b><br />
+Software QA Department <br/>
+Codemen Solutions Inc. <br />
+<i style='color:#000099;'>**August 05, 2019 - December 09, 2019**</i>
 
-[Download Full CV](https://tonmoy-hossain.github.io/files/CV_June8.pdf) [<ins>*Last Updated on June 8, 2020*</ins>]
+[Download Full CV](https://rakib-ahamed.github.io/files/CV_March1.pdf) [<ins>*Last Updated on March 01, 2020*</ins>]
 
 ## Contact Me
 -------------
 
-**Email:** tonmoy.cse [at] aust [dot] edu, tonmoy.cse [at] ieee [dot] org<br /> 
+**Email:** rakibahamed405@gmail.com<br /> 
  <br /> 
-**Website:** [https://tonmoy-hossain.github.io](https://tonmoy-hossain.github.io/) <br />
+**Website:** [https://Rakib-Ahamed.github.io](https://rakib-ahamed.github.io/) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ), [Github](https://github.com/tonmoy-hossain).
+You can also find me on [Google Site](https://sites.google.com/view/rakibahamed/)
 
 
 **Address:**
 <address>
-Department of Computer Science and Engineering (CSE), <br /> 
-Ahsanullah University of Science and Technology (AUST). <br /> 
-141-142 Love Road, Tejgaon Industrial Area, <br />
-Dhaka, Bangladesh. <br /> 
-</address> 
+data edge limited, Motijheel
+Sadharan Bima Bhabon 2, 139 Motijheel CA, Dhaka Dhaka, 1000 <br /> 
+</address>. 
 <br /> 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.5375119530972!2d90.40462791445606!3d23.76386639417981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c77decb5f845%3A0xc2eadd2f3b867792!2sAhsanullah%20University%20of%20Science%20and%20Technology!5e0!3m2!1sen!2sus!4v1584909327199!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.4895936911407!2d90.41510271524943!3d23.729914395474893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b85a2b1014c1%3A0x2ed54115c0dd93c2!2sdata%20edge%20limited%2C%20Motijheel!5e0!3m2!1sen!2sbd!4v1594486230192!5m2!1sen!2sbd" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 __________________________________________________________
