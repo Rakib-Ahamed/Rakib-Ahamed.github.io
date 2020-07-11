@@ -12,9 +12,8 @@ redirect_from:
 
 
 
-### B.Sc. in Computer Science and Engineering
+### B.Sc. in Computer Science and Engineering (Session: 2015-2019)
 
-* **Session:** 2015-2019
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 * **Thesis title:** ["Automatic License Plate Recognition of Bangladeshi
 Vehicles using Template Matching Technique"](https://rakib-ahamed.github.io/files/ANPR_Report_Milestone.pdf) 
