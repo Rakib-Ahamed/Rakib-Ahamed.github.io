@@ -13,12 +13,14 @@ Data Edge Limited (Dhaka, Bangladesh) <br/>
 <i style='color:#000099;'>**February 02, 2020 - present**</i><br/>
 
 
-# Intern
+
+# Internship
 
 <b>Software Quality Assurance Engineer </b><br />
 Software QA Department <br/>
 Codemen Solutions Inc. <br />
 <i style='color:#000099;'>**August 05, 2019 - December 09, 2019**</i>
+
 
 
 # Training
