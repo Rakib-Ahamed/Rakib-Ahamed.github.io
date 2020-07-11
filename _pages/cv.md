@@ -1,25 +1,11 @@
 ---
 layout: archive
 title: "Curriculam Vitae"
-permalink: /cv/
+permalink: /contact/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-## Education 
--------------
-<b>B.Sc., Computer Science and Engineering</b><br />
-Ahsanullah University of Science and Technology<br />
-Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**May 2015 - July 2019**</i>
-
-## Employment 
--------------
-<b>Software Engineer Trainee </b><br/>
-Software Development Department <br/>
-Data Edge Limited (Dhaka, Bangladesh) <br/>
-<i style='color:#000099;'>**February 02, 2020 - present**</i><br/>
 
 
 [Download Full CV](https://rakib-ahamed.github.io/files/CV_March1.pdf) [<ins>*Last Updated on March 01, 2020*</ins>]
