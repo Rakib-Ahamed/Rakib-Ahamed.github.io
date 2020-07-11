@@ -4,6 +4,8 @@ title: "Work Experience"
 permalink: /publications/
 author_profile: true
 ---
+
+
 -----------
 
 
@@ -33,5 +35,5 @@ Skill Development for Mobile Game & Application Project <br/>
 Digicon Technologies Limited <br/> 
 <i style='color:#000099;'>**May 05, 2018 - November 30, 2018**</i>
 
------------
+__________________________________________________________
 
