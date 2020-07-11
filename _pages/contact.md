@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Download Full CV](https://rakib-ahamed.github.io/files/CV_March1.pdf) [<ins>*Last Updated on March 01, 2020*</ins>]
+[Download Full CV] (https://rakib-ahamed.github.io/files/CV_March1.pdf) [<ins>*Last Updated on March 01, 2020*</ins>]
 
 ## Contact Me
 -------------
