@@ -28,7 +28,6 @@ I am Rakib Ahamed. I graduated with a B.Sc. degree in Computer Science and Engin
 * <span style="color:Blue"> [November 08, 2017] </span> - Ranked 5th position at Intra AUST programming Contest, Spring-17
 * <span style="color:Blue"> [January 13, 2015] </span> - Received Higher Secondary Certificate Scholarship by Education of Ministry, Bangladesh
 
-
 -----------
 
 
