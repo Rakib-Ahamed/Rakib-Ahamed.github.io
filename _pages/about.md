@@ -13,7 +13,7 @@ Hello!
 I am Rakib Ahamed. I graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/) , Dhaka, Bangladesh. Just after complete my graduation, I am working as a Software Engineer. I seek opportunities where I can fully use my skills for the success of the organization and experiencing new things and techniques in Computer Science field throughout my life which may lead to my goal. My primary research interests focus on Image Processing, Computer Vision and Machine Learning.
 
 
-**For additional information, please see the [CV](https://rakib-ahamed.github.io/cv/)**
+**For additional information, please see the [CV](https://rakib-ahamed.github.io/contact/)**
 
 -----------
 
