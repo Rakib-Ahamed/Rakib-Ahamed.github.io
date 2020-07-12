@@ -10,9 +10,9 @@ author_profile: true
 
 ### [2020 - *Current*]
 -----------
-* Bank Reconciliation (*ASP.Net Entity Framework, MsSQL Server*)
-* Real Time Gross Settlement (*ADO.Net Framework, MsSQL Server*
-* Foreign Exchange Reporting System (*ASP.Net Framework, MsSQL Server*)
+* Bank Reconciliation (*ASP.Net Entity Framework, MSSQL Server*)
+* Real Time Gross Settlement (*ADO.Net Framework, MSSQL Server*
+* Foreign Exchange Reporting System (*ASP.Net Framework, MSSQL Server*)
 
 
 ## Trainning Project [2018]
